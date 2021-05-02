@@ -10,7 +10,9 @@
 --lệnh thường dùng--
 1. 
 
-1.1 git add ---chọn các file hoặc folder đưa vào commit
+1.1 git add ---chọn các file hoặc folder đưa vào commit 
 1.2 git commit -ghi chú ---Tạo ra 1 sever backup tại local
 1.3 git push 1.3/1 git push-u origino 'tên nhánh' ---Nhánh đó nếu chưa có trên sever, sever sẽ tạo nhánh đó
              1.3/2 git push ---Nhánh đã có sẵn trên sever
+
+1.4 git status ---hiển thị ra các file đã vào được add va mommit

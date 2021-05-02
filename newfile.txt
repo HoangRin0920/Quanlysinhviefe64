@@ -1,0 +1,16 @@
+--Lệnh cơ bản--
+1.Cầu hình tài khoản trên máy(mỗi máy chỉ làm 1 lần):
+1.1 get config --global user.email 'email@gmail.com'
+
+2.kết nối source với sever:
+2.2 Tạo local sever -- git init 
+2.3 kết nối đến local secer đích --git remote add origin https://github.com/RIn-hub-design/Quanlysinhviefe64.git
+
+
+--lệnh thường dùng--
+1. 
+
+1.1 git add ---chọn các file hoặc folder đưa vào commit
+1.2 git commit -ghi chú ---Tạo ra 1 sever backup tại local
+1.3 git push 1.3/1 git push-u origino 'tên nhánh' ---Nhánh đó nếu chưa có trên sever, sever sẽ tạo nhánh đó
+             1.3/2 git push ---Nhánh đã có sẵn trên sever
